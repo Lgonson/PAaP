@@ -1,2 +1,1 @@
-# PAaP
-Our project for image recognition using Raspberry Pi
+# GAN - Generative Adversarial Networks
